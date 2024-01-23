@@ -69,7 +69,13 @@ void loop() {
 ```
 
 
-2. Instalar la libreria de **Cristal líquido I2C**. 
+2. Instalar la libreria de **DHT sensor library for ESPx**. 
    - Seleccionar pestaña de Librery Manager --> Add a New library --> Colocamos el nombre de libreria 
 
+![](https://github.com/DanielX834/PRACTICA-N3/assets/154008369/eeb00235-c4b1-4026-846e-a70497d3224a)
+
+
+3. Instalar la libreria de **Cristal líquido I2C**. 
+   - Seleccionar pestaña de Librery Manager --> Add a New library --> Colocamos el nombre de libreria
+   
 ![](
