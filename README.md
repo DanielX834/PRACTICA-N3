@@ -78,4 +78,6 @@ void loop() {
 3. Instalar la libreria de **Cristal líquido I2C**. 
    - Seleccionar pestaña de Librery Manager --> Add a New library --> Colocamos el nombre de libreria
    
-![](
+![](https://github.com/DanielX834/PRACTICA-N3/blob/main/2LibreriaL2C.jpg?raw=true)
+
+
