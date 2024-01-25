@@ -95,6 +95,7 @@ void loop() {
 ## Resultados
 
 Una vez terminado iniciamos simulacion y se observaran los valores en la lcd.
+
 ![](https://github.com/DanielX834/PRACTICA-N3/blob/main/4Resultados.jpg?raw=true)
 
 # Créditos
