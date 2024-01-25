@@ -98,6 +98,8 @@ Una vez terminado iniciamos simulacion y se observaran los valores en la lcd.
 
 ![](https://github.com/DanielX834/PRACTICA-N3/blob/main/4Resultados.jpg?raw=true)
 
+![](https://github.com/DanielX834/PRACTICA-N3/blob/main/5Resultados.jpg?raw=true)
+
 # Créditos
 Desarrollado por Ing. Daniel Armenta
 
