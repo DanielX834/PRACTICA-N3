@@ -80,4 +80,24 @@ void loop() {
    
 ![](https://github.com/DanielX834/PRACTICA-N3/blob/main/2LibreriaL2C.jpg?raw=true)
 
+ 4. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
+![](https://github.com/DanielX834/PRACTICA-N3/blob/main/3Conexion.jpg?raw=true)
+
+ 5. Hacer la conexion de **LCD 16x2 (I2C)** con la **ESP32** como se muestra en la siguente imagen.
+![](https://github.com/DanielX834/PRACTICA-N3/blob/main/3ConexionL2C.jpg?raw=true)
+
+### Instrucciónes de operación
+
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22** 
+
+## Resultados
+
+Una vez terminado iniciamos simulacion y se observaran los valores en la lcd.
+![](https://github.com/DanielX834/PRACTICA-N3/blob/main/4Resultados.jpg?raw=true)
+
+# Créditos
+Desarrollado por Ing. Daniel Armenta
+
 
